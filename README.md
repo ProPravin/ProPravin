@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Pravin Kumar
 
-<!--
-**ProPravin/ProPravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & Engineering Student
+🚀 Frontend Developer | Data Analyst | AI/ML Enthusiast 
+🔐 Interested in Cybersecurity & Digital Trust
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building
+• Osteoarthritis Early Risk Detection
+• FarmChain AI
+
+
+🛠️ Tech Stack
+• Java
+• Python
+• JavaScript
+• React
+• Node.js
+• SQL
+• Git & GitHub
+• AI/ML
+
+📌 Featured Projects
+
+🦴 Osteoarthritis Early Risk Detector
+🌾 FarmChain AI
+
+🏆 Achievements
+• Hackathons
+• Certifications
+• Open Source Contributions
+
+📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pravin-kumar-11b88431b/)
+- 📧 [Email](pravinkumarm.mpk@gmail.com)
+- 💻 [GitHub](https://github.com/ProPravin)
