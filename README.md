@@ -67,13 +67,6 @@ A **blockchain-based agricultural marketplace** focused on transparency, traceab
 
 ---
 
-## 📊 GitHub Activity
-
-![Pravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProPravin\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProPravin\&layout=compact\&theme=transparent)
-
----
 
 ## 📫 Connect With Me
 
