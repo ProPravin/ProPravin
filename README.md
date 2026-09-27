@@ -9,7 +9,6 @@
 ## 🚀 Currently Building
 
 * 🦴 **Osteoarthritis Early Risk Detector** — AI/ML & Data Analytics
-* 🌾 **FarmChain AI** — Blockchain, Cybersecurity & Digital Trust
 
 ---
 
