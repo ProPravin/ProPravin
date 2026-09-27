@@ -48,11 +48,6 @@ AI-powered solution for **early osteoarthritis risk assessment** using data-driv
 
 **Focus:** `AI/ML` `Data Analytics` `Healthcare`
 
-### 🌾 FarmChain AI
-
-A **blockchain-based agricultural marketplace** focused on transparency, traceability, and digital trust across the farm-to-consumer supply chain.
-
-**Focus:** `Blockchain` `Cybersecurity` `Data Analytics` `Full Stack`
 
 ---
 
