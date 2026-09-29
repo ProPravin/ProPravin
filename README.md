@@ -1,458 +1,165 @@
 ````markdown
-<!-- =========================================================
-     PRAVIN KUMAR — GITHUB PROFILE
-     Futuristic Developer / AI / Data / Cybersecurity
-========================================================= -->
+# 👋 Hi, I'm Pravin Kumar
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=PRAVIN%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<img src="./assets/profile-banner.png" width="100%" alt="Pravin Kumar - Developer Banner"/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C9AD6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer;Building+Real-World+Projects" />
+  </a>
+</p>
 
-<br><br>
-
-<a href="https://github.com/ProPravin">
-<img src="https://img.shields.io/badge/GitHub-ProPravin-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pravin-kumar-11b88431b/">
-<img src="https://img.shields.io/badge/LinkedIn-Pravin_Kumar-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ProPravin&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Data+Analytics;AI%2FML+%7C+Cybersecurity+%7C+Full+Stack;Turning+Ideas+Into+Real-World+Systems." />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ProPravin&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# ⚡ `01 / ABOUT ME`
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+🎓 Computer Science & Engineering Student  
+💻 Interested in Full-Stack Development & Data Analytics  
+🤖 Exploring AI/ML and intelligent applications  
+🔐 Interested in Cybersecurity & Digital Trust  
+🚀 Building practical, real-world software projects  
+📚 Continuously learning new technologies  
 
-### 👋 Hello, I'm Pravin
+> **Learn → Build → Experiment → Improve → Innovate**
 
-I'm a **Computer Science & Engineering student** interested in building practical technology that solves real problems.
+---
 
-My current exploration sits at the intersection of:
+## 🏆 Featured Projects
 
-- 💻 Software Engineering
-- 📊 Data Analytics
-- 🤖 Artificial Intelligence
-- 🌐 Full-Stack Development
-- 🔐 Cybersecurity & Digital Trust
+| Project | Description | Technologies |
+|---|---|---|
+| 🦴 **JointX** | AI-assisted early osteoarthritis risk detection using gait analysis and patient screening data. | Python • AI/ML • Computer Vision • Data Analytics |
+| 🌾 **FarmChain AI** | Blockchain-powered agricultural marketplace focused on transparent transactions and digital trust. | Blockchain • Web3 • Smart Contracts • React • Node.js |
 
-I learn primarily by **building, testing, debugging and improving real projects**.
+---
 
-</td>
+## 🛠️ Tech Stack
 
-<td width="45%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProPravin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProPravin&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ProPravin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ProPravin/ProPravin/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🧠 Current Focus
 
 ```text
-┌──────────────────────────┐
-│       PRAVIN KUMAR       │
-├──────────────────────────┤
-│                          │
-│  💻  SOFTWARE            │
-│  📊  DATA                │
-│  🤖  AI / ML             │
-│  🔐  SECURITY            │
-│  🚀  BUILDING            │
-│                          │
-└──────────────────────────┘
+┌─────────────────────────────────────────────┐
+│                                             │
+│   💻 Software Development                   │
+│          ↓                                  │
+│   📊 Data Analytics                         │
+│          ↓                                  │
+│   🤖 Artificial Intelligence                │
+│          ↓                                  │
+│   🔐 Cybersecurity & Digital Trust          │
+│          ↓                                  │
+│   🚀 Production-Level Projects              │
+│                                             │
+└─────────────────────────────────────────────┘
 ````
 
-### Current mindset
-
-`Learn → Build → Break → Fix → Improve → Ship`
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 🚀 `02 / FEATURED PROJECTS`
-
-<div align="center">
-
-## 🦴 JointX
-
-### AI-Assisted Early Osteoarthritis Risk Detection
-
-</div>
-
-JointX explores an AI-assisted approach for **preliminary osteoarthritis risk assessment** using gait analysis, patient screening information and machine-learning techniques.
+## 📈 My Developer Journey
 
 ```text
-Patient / User
-      │
-      ├───────────────┐
-      ▼               ▼
- Gait Analysis    Screening Data
-      │               │
-      └───────┬───────┘
-              ▼
-        Feature Extraction
-              │
-              ▼
-          AI / ML Model
-              │
-              ▼
-      Preliminary Risk Level
-```
-
-**Technology Focus**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![AI](https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge\&logo=googlecolab\&logoColor=F9AB00)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge\&logo=opencv\&logoColor=5C3EE8)
-![Data](https://img.shields.io/badge/Data_Analytics-0D1117?style=for-the-badge\&logo=databricks\&logoColor=FF3621)
-
-<br>
-
-<div align="center">
-
-🔗 **Repository:**
-`github.com/ProPravin/JointX`
-
-</div>
-
----
-
-<div align="center">
-
-## 🌾 FarmChain AI
-
-### Trace2Trust — Transparent Farm-to-Consumer Marketplace
-
-</div>
-
-FarmChain AI explores how **blockchain and smart contracts** can improve transparency and digital trust across the agricultural supply chain.
-
-```text
-FARMER
-   │
-   ▼
-PRODUCT REGISTRATION
-   │
-   ▼
-BLOCKCHAIN LEDGER
-   │
-   ▼
-SMART CONTRACT
-   │
-   ▼
-RETAILER
-   │
-   ▼
-CONSUMER
-```
-
-**Technology Focus**
-
-![Blockchain](https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge\&logo=blockchaindotcom\&logoColor=F7931A)
-![Web3](https://img.shields.io/badge/Web3-0D1117?style=for-the-badge\&logo=web3dotjs\&logoColor=F16822)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-
----
-
-# 🧩 `03 / TECHNOLOGY STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-
-<br><br>
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-
-<br><br>
-
-### Database & Development
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 💻 PROGRAMMING
-
-`C` `C++` `Java` `Python` `JavaScript`
-
-</td>
-
-<td align="center">
-
-### 🌐 WEB
-
-`HTML` `CSS` `React` `Node.js`
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📊 DATA
-
-`Python` `SQL` `Data Analytics`
-
-</td>
-
-<td align="center">
-
-### 🔐 SPECIALIZATION
-
-`AI/ML` `Cybersecurity` `Blockchain`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 `04 / ENGINEERING MINDSET`
-
-```text
-                 ┌─────────────────┐
-                 │      IDEA       │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     RESEARCH    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     DESIGN      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      BUILD      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      TEST       │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     DEPLOY      │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     IMPROVE     │
-                 └─────────────────┘
-```
-
-> **I don't want to just learn technologies.
-> I want to understand how they can be used to solve real problems.**
-
----
-
-# 📊 `05 / GITHUB ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ProPravin&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProPravin&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ProPravin&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
-
-</div>
-
----
-
-# 🐍 `06 / CONTRIBUTION JOURNEY`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ProPravin/ProPravin/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-<br>
-
-### `Every contribution is one more step forward.`
-
-</div>
-
----
-
-# 🎯 `07 / CURRENT FOCUS`
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔥 Building
-
-```text
-✓ Production-level projects
-✓ AI/ML applications
-✓ Data-driven systems
-✓ Full-stack applications
-✓ Hackathon solutions
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Improving
-
-```text
-✓ Data Structures & Algorithms
-✓ Software Engineering
-✓ Data Analytics
-✓ System Design
-✓ Cybersecurity
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌌 `08 / THE JOURNEY`
-
-<div align="center">
-
-```text
-        LEARN
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        FAIL
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-        SHIP
-          │
-          ▼
-       REPEAT
-```
-
-### `The goal isn't to know everything.`
-
-### `The goal is to keep becoming better at building.`
-
-</div>
-
----
-
-# 🏆 `09 / 2026 GOALS`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ███████████████████░░░  Become a stronger engineer         │
-│                                                             │
-│  █████████████████░░░░░  Build production-ready projects    │
-│                                                             │
-│  ████████████████░░░░░░  Strengthen DSA & problem solving   │
-│                                                             │
-│  ███████████████░░░░░░░  Master Data Analytics              │
-│                                                             │
-│  ██████████████░░░░░░░░  Explore AI / ML                    │
-│                                                             │
-│  ████████████░░░░░░░░░░  Improve Cybersecurity              │
-│                                                             │
-│  ██████████░░░░░░░░░░░░  Contribute to open source          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                    ┌─────────────────┐
+                    │   Learn         │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Practice      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Build         │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Deploy        │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Improve       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   Innovate 🚀   │
+                    └─────────────────┘
 ```
 
 ---
 
-# ⚡ `10 / PRINCIPLE`
+## 🎯 2026 Goals
 
-<div align="center">
-
-## `BUILD > TALK`
-
-<br>
-
-### Ideas become valuable when they become working systems.
-
-<br>
-
-`Learn` **→** `Build` **→** `Experiment` **→** `Improve` **→** `Impact`
-
-</div>
+* 🚀 Build production-ready applications
+* 📊 Strengthen Data Analytics skills
+* 🤖 Develop practical AI/ML solutions
+* 🔐 Improve Cybersecurity knowledge
+* 🧩 Master Data Structures & Algorithms
+* 🌐 Improve Full-Stack Development
+* 🏆 Participate in hackathons and technical competitions
+* 💼 Prepare for software engineering opportunities
 
 ---
 
-# 🤝 `11 / LET'S CONNECT`
+## 💡 Developer Philosophy
 
-<div align="center">
+> **"Don't just learn technology. Build something meaningful with it."**
+
+I believe the best way to learn technology is by turning ideas into working products.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/ProPravin">
-<img src="https://img.shields.io/badge/GITHUB-ProPravin-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-ProPravin-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/pravin-kumar-11b88431b/">
-<img src="https://img.shields.io/badge/LINKEDIN-Pravin_Kumar-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<br><br>
+</p>
 
-### `Build • Learn • Collaborate • Grow`
+---
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312E81,100:06B6D4&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" />
+</p>
 ```
 
-### 📁 Put your assets like this
+This version **completely removes TNEA Smart College Predictor** and keeps the profile focused around **JointX + FarmChain AI + Software Development + Data Analytics + AI/ML + Cybersecurity**.
 
-```text
-ProPravin/
-│
-├── README.md
-│
-├── assets/
-│   └── profile-banner.png
-│
-└── .github/
-    └── workflows/
-        └── snake.yml
-```
-
-**One important improvement:** I intentionally did **not** put fake GitHub numbers, fake streak counts, or invented project statistics into the README. The live GitHub widgets will generate those from your actual account.
-
-Your new profile will therefore have a consistent visual identity:
-
-**🌌 Neon hero → ⚡ developer identity → 🚀 projects → 🧩 tech icons → 📊 live analytics → 🐍 snake → 🎯 goals → 🤝 connection**
+If you're using the `snake.yml` from the previous step, the contribution animation section is already compatible.
