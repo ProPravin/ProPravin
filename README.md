@@ -1,7 +1,7 @@
 
 <!-- =========================================================
      PRAVIN KUMAR — GITHUB PROFILE
-     Futuristic Developer / AI / Data / Cybersecurity
+     Futuristic Developer / AI / Data Analytics
 ========================================================= -->
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-# ⚡ `01 / ABOUT ME`
+# ⚡ `ABOUT ME`
 
 <table>
 <tr>
@@ -44,7 +44,6 @@ My current exploration sits at the intersection of:
 - 📊 Data Analytics
 - 🤖 Artificial Intelligence
 - 🌐 Full-Stack Development
-- 🔐 Cybersecurity & Digital Trust
 
 I learn primarily by **building, testing, debugging and improving real projects**.
 
@@ -60,7 +59,6 @@ I learn primarily by **building, testing, debugging and improving real projects*
 │  💻  SOFTWARE            │
 │  📊  DATA                │
 │  🤖  AI / ML             │
-│  🔐  SECURITY            │
 │  🚀  BUILDING            │
 │                          │
 └──────────────────────────┘
@@ -76,7 +74,7 @@ I learn primarily by **building, testing, debugging and improving real projects*
 
 ---
 
-# 🚀 `02 / FEATURED PROJECTS`
+# 🚀 `FEATURED PROJECTS`
 
 <div align="center">
 
@@ -124,51 +122,13 @@ Patient / User
 
 ---
 
-<div align="center">
-
-## 🌾 FarmChain AI
-
-### Trace2Trust — Transparent Farm-to-Consumer Marketplace
-
-</div>
-
-FarmChain AI explores how **blockchain and smart contracts** can improve transparency and digital trust across the agricultural supply chain.
-
-```text
-FARMER
-   │
-   ▼
-PRODUCT REGISTRATION
-   │
-   ▼
-BLOCKCHAIN LEDGER
-   │
-   ▼
-SMART CONTRACT
-   │
-   ▼
-RETAILER
-   │
-   ▼
-CONSUMER
-```
-
-**Technology Focus**
-
-![Blockchain](https://img.shields.io/badge/Blockchain-0D1117?style=for-the-badge\&logo=blockchaindotcom\&logoColor=F7931A)
-![Web3](https://img.shields.io/badge/Web3-0D1117?style=for-the-badge\&logo=web3dotjs\&logoColor=F16822)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-
----
-
-# 🧩 `03 / TECHNOLOGY STACK`
+# 🧩 `TECHNOLOGY STACK`
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js" />
 
 <br><br>
 
@@ -192,7 +152,7 @@ CONSUMER
 
 ### 💻 PROGRAMMING
 
-`C` `C++` `Java` `Python` `JavaScript`
+`C` `Java` `Python` `JavaScript`
 
 </td>
 
@@ -200,7 +160,7 @@ CONSUMER
 
 ### 🌐 WEB
 
-`HTML` `CSS` `React` `Node.js`
+`HTML` `CSS` `React` `Node.js` `JavaScript`
 
 </td>
 </tr>
@@ -218,7 +178,7 @@ CONSUMER
 
 ### 🔐 SPECIALIZATION
 
-`AI/ML` `Cybersecurity` `Blockchain`
+`AI/ML` `Cybersecurity`
 
 </td>
 </tr>
@@ -226,7 +186,7 @@ CONSUMER
 
 ---
 
-# 🧠 `04 / ENGINEERING MINDSET`
+# 🧠 `ENGINEERING MINDSET`
 
 ```text
                  ┌─────────────────┐
@@ -269,7 +229,7 @@ CONSUMER
 
 ---
 
-# 📊 `05 / GITHUB ANALYTICS`
+# 📊 `GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -293,7 +253,7 @@ CONSUMER
 
 ---
 
-# 🐍 `06 / CONTRIBUTION JOURNEY`
+# 🐍 `CONTRIBUTION JOURNEY`
 
 <div align="center">
 
@@ -307,7 +267,7 @@ CONSUMER
 
 ---
 
-# 🎯 `07 / CURRENT FOCUS`
+# 🎯 `CURRENT FOCUS`
 
 <table>
 <tr>
@@ -335,7 +295,6 @@ CONSUMER
 ✓ Software Engineering
 ✓ Data Analytics
 ✓ System Design
-✓ Cybersecurity
 ```
 
 </td>
@@ -345,7 +304,7 @@ CONSUMER
 
 ---
 
-# 🌌 `08 / THE JOURNEY`
+# 🌌 `THE JOURNEY`
 
 <div align="center">
 
@@ -379,7 +338,7 @@ CONSUMER
 
 ---
 
-# 🏆 `09 / 2026 GOALS`
+# 🏆 `2026 GOALS`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -403,7 +362,7 @@ CONSUMER
 
 ---
 
-# ⚡ `10 / PRINCIPLE`
+# ⚡ `PRINCIPLE`
 
 <div align="center">
 
@@ -421,7 +380,7 @@ CONSUMER
 
 ---
 
-# 🤝 `11 / LET'S CONNECT`
+# 🤝 `LET'S CONNECT`
 
 <div align="center">
 
