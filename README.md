@@ -178,7 +178,7 @@ Patient / User
 
 ### 🔐 SPECIALIZATION
 
-`AI/ML` `Cybersecurity`
+`AI/ML`
 
 </td>
 </tr>
