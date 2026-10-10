@@ -44,6 +44,7 @@ My current exploration sits at the intersection of:
 - 📊 Data Analytics
 - 🤖 Artificial Intelligence
 - 🌐 Full-Stack Development
+- 🔐 Cybersecurity & Digital Trust
 
 I learn primarily by **building, testing, debugging and improving real projects**.
 
@@ -59,6 +60,7 @@ I learn primarily by **building, testing, debugging and improving real projects*
 │  💻  SOFTWARE            │
 │  📊  DATA                │
 │  🤖  AI / ML             │
+│  🔐  SECURITY            │
 │  🚀  BUILDING            │
 │                          │
 └──────────────────────────┘
@@ -128,7 +130,7 @@ Patient / User
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 <br><br>
 
@@ -152,7 +154,7 @@ Patient / User
 
 ### 💻 PROGRAMMING
 
-`C` `Java` `Python` `JavaScript`
+`C` `C++` `Java` `Python` `JavaScript`
 
 </td>
 
@@ -160,7 +162,7 @@ Patient / User
 
 ### 🌐 WEB
 
-`HTML` `CSS` `React` `Node.js` `JavaScript`
+`HTML` `CSS` `React` `Node.js`
 
 </td>
 </tr>
@@ -178,7 +180,7 @@ Patient / User
 
 ### 🔐 SPECIALIZATION
 
-`AI/ML`
+`AI/ML` `Cybersecurity`
 
 </td>
 </tr>
@@ -243,17 +245,17 @@ Patient / User
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProPravin&bg_color=0D1117&color=58A6FF&line=7C3AED&point=06B6D4&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph-two.vercel.app/graph?username=ProPravin&bg_color=0D1117&color=58A6FF&line=7C3AED&point=06B6D4&area=true&hide_border=true" width="100%"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ProPravin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=ProPravin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7"/>
 
 </div>
 
 ---
 
-# `CONTRIBUTION JOURNEY`
+# 🐍 `CONTRIBUTION JOURNEY`
 
 <div align="center">
 
@@ -295,6 +297,7 @@ Patient / User
 ✓ Software Engineering
 ✓ Data Analytics
 ✓ System Design
+✓ Cybersecurity
 ```
 
 </td>
