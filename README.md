@@ -253,7 +253,7 @@ Patient / User
 
 ---
 
-# 🐍 `CONTRIBUTION JOURNEY`
+# `CONTRIBUTION JOURNEY`
 
 <div align="center">
 
