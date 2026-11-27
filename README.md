@@ -44,7 +44,7 @@ My current exploration sits at the intersection of:
 - 📊 Data Analytics
 - 🤖 Artificial Intelligence
 - 🌐 Full-Stack Development
-- 🔐 Cybersecurity & Digital Trust
+  
 
 I learn primarily by **building, testing, debugging and improving real projects**.
 
@@ -60,8 +60,7 @@ I learn primarily by **building, testing, debugging and improving real projects*
 │  💻  SOFTWARE            │
 │  📊  DATA                │
 │  🤖  AI / ML             │
-│  🔐  SECURITY            │
-│  🚀  BUILDING            │
+│  🔐  SECURITY            │       
 │                          │
 └──────────────────────────┘
 ```
@@ -180,7 +179,7 @@ Patient / User
 
 ### 🔐 SPECIALIZATION
 
-`AI/ML` `Cybersecurity`
+`AI/ML` 
 
 </td>
 </tr>
